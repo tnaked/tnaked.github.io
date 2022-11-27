@@ -3,3 +3,8 @@ h1{
   padding-bottom: 8px;
   border-bottom: 1px solid #ddd;
 }
+
+h2{
+  font-size: 16px;
+  margin-top: 60px;
+}
